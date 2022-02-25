@@ -44,7 +44,7 @@ public class Main {
         //n = -5, expected = Invalid - nem ra ngoai le; actual : doan xem!!!
         //expected - exception phai xuat hien, kh la long;
         System.out.println("Check if an exception is thrown by using invalid argument");
-        actual = MathUtil.getFactorial(-5); //doan xem
+        //actual = MathUtil.getFactorial(-5); //doan xem
         //nhin bang mat de tim ngoai le
         //dung nhu ki vong/ thay ngoai le mung roi nuoc mat
     }
